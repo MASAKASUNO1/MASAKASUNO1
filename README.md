@@ -70,6 +70,10 @@ I mainly develop in a private organization.
 
 - Next.js
   - 1 year experience
+  - (fx.) WeVote (Developed in 16 hours)
+    - https://wevote-97602.web.app/
+    - Neumorphism design
+    - votes service
   - (fx.) cryptobook lp (Developed in 4 hours)
     - https://cryptobook-3ec1e.web.app/
 
