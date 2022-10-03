@@ -69,9 +69,9 @@
 
 <h2>🌟 Stats:</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MASAKASUNO1&theme=discord&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=masakasuno1&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MASAKASUNO1&theme=discord&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h2>🏄 Others:</h2>
