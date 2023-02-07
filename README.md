@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm masakasuno1</h1>
 <h3 align="center">Multi Talented Growth Hacker in Japan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masakasuno1&label=Profile%20views&color=0e75b6&style=flat" alt="masakasuno1" /> </p>
-<p>プログラミング・デザイン・マーケティングのスキルを幅広く取得しているDeveloperです</p>
+<p>プログラミング・デザイン・マーケティングのスキルを幅広く取得しているタイプの人です</p>
 <p>作ることも・数字を伸ばすハックをすることも得意なジェネラリストです</p>
+<p>強いて言うならば、数字を伸ばすハックを考えるのが一番好きなのでGrowthHackerです</p>
 
 <img height="200px" src="https://m.media-amazon.com/images/I/51WXLozwKNL.jpg"/>
 <p>プロダクトの開発思想はLEANに影響を受けています</p>
-
-
 
 <h2 align="left">🏆 Self-Achivement:</h2>
 
@@ -60,11 +59,14 @@
 <h2 align="left">👼 Career:</h2>
 
 - React/ReactNatveを用いた開発を主にしています
-- 2015年に地元の高専から九州大学へ編入しました
-- 2015年大学を中退しアプリエンジニアとしてのキャリアを開始しました
-- 2016年頃より個人開発としてサービス開発者を始めました
-- 2018年1月サービスのヒットをきっかけに開業し、ITサービスの企画・開発・運営をはじめました
-- 2022年現在も自営業者として開発をおこなっております
+- 2015年 地元高専から九州大学へ編入しました
+- 2015年 インターンをきっかけに大学を中退しアプリエンジニアとしてのキャリアを開始しました
+- 2016年 個人開発としてアプリ開発者を始めました
+- 2018年1月 サービスのヒットをきっかけに開業し、ITサービスの企画・開発・運営、インターネットメディアの運用をはじめました
+- 2019年 アプリストアの合計DL数は約350万となっております。
+- 2019年 Web開発にも本腰を入れ始めました。現在でも主事業になっています
+- 2020年 SNSマーケティングにも本腰を入れ始めました。Twitterでは総フォロワー数数万、Youtubeでは銀の盾(登録者10万人以上)を達成しました
+- [✅現在] 2023年現在も自営業者としてITサービスの企画・開発・運営をおこなっております。2023年はメディア事業は抑えながらサービス開発に力を入れたいと思っております。
 
 
 <h2>🌟 Stats:</h2>
@@ -76,7 +78,7 @@
 
 <h2>🏄 Others:</h2>
 
-  - Affected　Philosophers
+  - 影響を受けた哲学者
     - Arthur Schopenhauer
     - Friedrich Wilhelm Nietzsche     
   
@@ -91,6 +93,10 @@
       (3). 競争性
       (4). 慎重さ
       (5). 達成欲
+
+  - 趣味
+    - SNSのアルゴリズムを解析すること
+    - 最近では完全内製のTwitterの分析サービスを作っていたので、知見が溜まっています
 
 
 <h2 align="left">📩 Connect with me:</h2>
