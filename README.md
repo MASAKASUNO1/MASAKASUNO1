@@ -1,27 +1,33 @@
-<h1 align="center">Hi 👋, I'm masakasuno1</h1>
-<h3 align="center">Multi Talented Growth Hacker in Japan</h3>
+
+<div width='100%' align='center'>
+  <img align="center" width="500px" src="https://user-images.githubusercontent.com/32926719/235447300-86bb8034-2e4f-4083-af8c-0aef3eec107c.png" alt="hello-world" />
+</div>
+<h2 align="center">Multi Talented Growth Hacker in Japan</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masakasuno1&label=Profile%20views&color=0e75b6&style=flat" alt="masakasuno1" /> </p>
-<p>プログラミング・デザイン・マーケティングのスキルを幅広く取得しているタイプの人です</p>
+
+
+<p>主に事業開発をやっているので、プログラミング・デザイン・マーケティングのスキルを幅広く取得しています</p>
 <p>作ることも・数字を伸ばすハックをすることも得意なジェネラリストです</p>
-<p>強いて言うならば、数字を伸ばすハックを考えるのが一番好きなのでGrowthHackerです</p>
+<p>強いて言うならば、数字を伸ばすハックを考えるのが一番好きなので、GrowthHackerを自称してます</p>
 
 <img height="200px" src="https://m.media-amazon.com/images/I/51WXLozwKNL.jpg"/>
 <p>プロダクトの開発思想はLEANに影響を受けています</p>
 
-<h2 align="left">🏆 Self-Achivement:</h2>
+<h2 align="left">🏆 Achivements, 主な実績:</h2>
 
-- 1 M&A product
-- Youtube 100000 subscribers
-- 500000 PV/m web media
-- 1500000 Monthly User web service.
-- iOS AppStore No1 in all categories (2017)
-- 3500000 DL iOS Apps (2017~2019)
+|　カテゴリー|備考|
+| -------------- | ------------------------------------------------------- |
+| M&A | 1回だけ経験があります(モバイルアプリ) |
+| MobileApp | 元々はiOS個人開発者で、2017~2019年に合計350万DL等を達成しました。作るのならアプリが１番好きです |
+| WebService | 運営しているサービスの累計ページViewは1億を軽く超えます |
+| WebMedia | ニッチトップで月間50万PV程度のウェブメディア等も運営しています |
+| SNS | YoutubeやTwitterを主に攻略しています。10万人以上の登録者チャンネル含む複数運営しています。銀盾も持っています |
 
 
 
-<h2 align="left">🧑‍💻 Languages and Tools:</h2>
+<h2 align="left">🧑‍💻 Languages and Tools, 開発ツール:</h2>
 
-- React/ReactNatveを用いた開発を主にしています
+- Next.js/ReactNatveを用いた開発を主にしています。
 
 <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs?username=masakasuno1&show_icons=true&locale=en&layout=compact" alt="masakasuno1" />
 <p align="left"> 
