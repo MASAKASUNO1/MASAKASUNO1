@@ -9,7 +9,7 @@
 
 
 <img height="200px" src="https://m.media-amazon.com/images/I/51WXLozwKNL.jpg"/>
-<p>プロダクトの開発思想はLEANに影響を受けています/p>
+<p>プロダクトの開発思想はLEANに影響を受けています</p>
 
 <h2 align="left">🏆 Achivements, 主な実績:</h2>
 
@@ -42,8 +42,9 @@
 
 </p>
 </p>
+<br/><br/>
 
-<h2 align="left">🔮 Algorizm Hack(一定の実績・知見がある):</h2> 
+<h2 align="left">🔮 Algorizm研究:</h2> 
 <p align="left">
 <a href="" target="_blank" rel="noreferrer">
 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" width="40" height="40"/>
@@ -61,6 +62,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/0/747.png" alt="twitter" width="40" height="40"/>
 </a>
 </p>
+<p>身内にYoutuberが多いのと、内製Twitter運用サービスを作っている都合でTwitterとYoutubeのアルゴリズムは特に知っているかも</p>
 
 
 <h2 align="left">👼 Career:</h2>
