@@ -19,11 +19,11 @@
 |　カテゴリー|備考|
 | -------------- | ------------------------------------------------------- |
 | WebFront | Next.js, TailwindCSS, shadcn/ui or daisyUI or ...   |
-| Backend&Mbaas | Next.js, Supabase, Firebase, Node.js |
+| Backend&mBaaS | Next.js, Supabase, Firebase, Node.js, Vercel, GCP |
 | App | ReactNative, Expo, Gluestack, Nextron |
 | その他 | Wordpress |
 | 編集技術 | Figma(UIやクリエイティブ), FinalCutPro(動画編集) |
-| 専攻 | 学生時代画像処理を専攻にしてましたので、OpenCV,GLSLなどの知見も少し |
+| 特別 | 学生時代画像処理を専攻にしてましたので、OpenCV,GLSLなどの知見も少し |
 
 ## その他
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MASAKASUNO1&theme=gruvbox)
