@@ -21,7 +21,7 @@ ReactNative と Next.jsで大体のものを作ってます
 |　カテゴリー|備考|
 | -------------- | ------------------------------------------------------- |
 | WebFront | Next.js, TailwindCSS, shadcn/ui or daisyUI or ...   |
-| Backend&Mbaas | Next.js, Supabase, Firebase, Node.js |
+| Backend&mBaaS | Next.js, Supabase, Firebase, Node.js |
 | App | ReactNative, Expo, Gluestack, Nextron |
 | その他 | Wordpress,  |
 | 編集技術 | Figma(UIやクリエイティブ), FinalCutPro(動画編集) |
