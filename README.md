@@ -1,5 +1,9 @@
 # Masakasu(masakasuno1)
 <h3>web & mobile developer / growth hacker</h3>
+
+[![masakasu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MASAKASUNO1&theme=high-contrast	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masakasuno1&label=Profile%20views&color=0e75b6&style=flat" alt="masakasuno1" /> </p>
 リーンスタートアップに影響を受け、8年くらい前にアプリ開発を始めたのがきっかけで界隈に来ました。
 サービス運営、SNS運営、個人・小規模チーム開発、受託開発いろいろやっています。熱くなれるものを探している旅人です
@@ -26,5 +30,6 @@
 | 特別 | 学生時代画像処理を専攻にしてましたので、OpenCV,GLSLなどの知見も少し |
 
 ## その他
+[![GitHub Streak](https://streak-stats.demolab.com?user=MASAKASUNO1&theme=javascript-dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MASAKASUNO1&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MASAKASUNO1&theme=gruvbox&utcOffset=9)
