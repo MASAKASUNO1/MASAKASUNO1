@@ -5,8 +5,10 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masakasuno1&label=Profile%20views&color=0e75b6&style=flat" alt="masakasuno1" /> </p>
-リーンスタートアップに影響を受け、8年くらい前にアプリ開発を始めたのがきっかけで界隈に来ました。
-サービス運営、SNS運営、個人・小規模チーム開発、受託開発いろいろやっています。熱くなれるものを探している旅人です
+リーンスタートアップに影響を受け、8年くらい前にアプリ開発を始めたのがきっかけで界隈に来ました
+最近はGenerativeAIにハマってます
+サービス運営、SNS運営、個人開発・受託開発いろいろやっています
+開発者なのに器用すぎるとよく言われます
 
 
 ## 過去の実績 (Achivements)
